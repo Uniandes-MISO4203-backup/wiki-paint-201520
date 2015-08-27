@@ -36,3 +36,42 @@ De acuerdo a la planeación realizada para ciclo de trabajo, los integrantes deb
 - De igual manera, en el momento que ese resneta un impedimiento, el lider de soporte deberá registrar el suceso en la Wiki del proyecto, para llevar el seguimiento del caso.
 - En el momento en el que se represente el impedimento, todos los miembros del equipo mediante la descripción dispuesta en la Wiki para el mismo, deberá apoyo en la solución del problema en la medida que le sea posible, con el propósito de encontrar una solución oportuna.
 
+## Cumplimiento de Objetivos
+
+### Ciclo 1
+
+De acuerdo a las directrices definidas para el proyecto, los objetivos planteados para el Ciclo 1 para proyecto son:
+
+**Objetivo del Grupo**
+* Lograr un entendimiento de: el enunciado del proyecto, la aplicación actual y el trabajo faltante para completar lo actual con respecto a las expectativas del cliente.
+* Tener Claridad sobre los riesgos del proyecto y haber discutido y definido planes de mitigación.
+* Organizar el grupo de tal forma que cada miembro entienda la importancia de su participación y tenga claridad sobre los mecanismos de comunicación, las entregas, la calidad de lo que reporta, las herramientas que se van a utilizar, las fechas, la planeación de su trabajo, la integración con los demás, etc.
+
+**Objetivos individuales**
+* Sea parte de un equipo de trabajo y haya participado en la definición y haya aceptado las reglas de funcionamiento del grupo. 
+* Haya participado en el análisis del estado actual de la aplicación y en la construcción de:
+- Dashboard de Sonar y análisis de los resultados de las métricas
+- Entendimiento de la Arquitectura de la aplicación
+- Entendimiento de las Tecnologías utilizadas
+- Proceso de integración continua utilizando github, travis y sonar
+- Caracterización y priorización de los requerimientos
+* Haya participado con el equipo en la construcción de una estrategia para el proyecto, esto es:
+- Alcance de cada ciclo basado en una estimación inicial y en el estado actual del proyecto
+- Identificación de riesgos y planes de mitigación
+- Roles y responsabilidades
+
+En este orden de ideas, para el cumplimiento de los objetivos del Ciclo 1 del proyecto, el equipo de trabajo define las siguientes medidas para el cumplimiento de cada medida.
+
+|Tipo de Objectivo|N° de Objetivo|Medida|Resultado Esperada|Estado|
+|---|---|---|---|---|
+|Grupo|1|Medida grupal 1|Resultado esperado 1|En espera|
+|Grupo|2|Medida grupal 2|Resultado esperado 2|En espera|
+|Grupo|3|Medida grupal 3|Resultado esperado 3|En espera|
+*Estados:* En espera, Cumplido, No Cumplido
+
+|Objetivo Individual|Medida|Viviana Salcedo|Mauricio Amaya|Sergio Bustos|Mario Lancheros|Alejandro Perez|Felipe Mendivelso|
+|---||---|---|---|---|---|---|---|
+|1|Medida 1| | | | | | |
+|2|Medida 2| | | | | | |
+|3|Medida 3| | | | | | |
+|4|Medida 4| | | | | | |
