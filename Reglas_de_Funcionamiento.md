@@ -67,7 +67,6 @@ En este orden de ideas, para el cumplimiento de los objetivos del Ciclo 1 del pr
 |Grupo|1|Medida grupal 1|Resultado esperado 1|En espera|
 |Grupo|2|Medida grupal 2|Resultado esperado 2|En espera|
 |Grupo|3|Medida grupal 3|Resultado esperado 3|En espera|
-*Estados:* En espera, Cumplido, No Cumplido
 
 |Objetivo Individual|Medida|Viviana Salcedo|Mauricio Amaya|Sergio Bustos|Mario Lancheros|Alejandro Perez|Felipe Mendivelso|
 |---|---|---|---|---|---|---|---|---|
@@ -75,3 +74,5 @@ En este orden de ideas, para el cumplimiento de los objetivos del Ciclo 1 del pr
 |2|Medida 2| | | | | | |
 |3|Medida 3| | | | | | |
 |4|Medida 4| | | | | | |
+
+*Estados:* En espera, Cumplido, No Cumplido
