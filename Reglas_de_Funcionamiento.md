@@ -43,19 +43,23 @@ De acuerdo a la planeación realizada para ciclo de trabajo, los integrantes deb
 De acuerdo a las directrices definidas para el proyecto, los objetivos planteados para el Ciclo 1 para proyecto son:
 
 **Objetivo del Grupo**
-1. Lograr un entendimiento de: el enunciado del proyecto, la aplicación actual y el trabajo faltante para completar lo actual con respecto a las expectativas del cliente.
-2. Tener Claridad sobre los riesgos del proyecto y haber discutido y definido planes de mitigación.
-3. Organizar el grupo de tal forma que cada miembro entienda la importancia de su participación y tenga claridad sobre los mecanismos de comunicación, las entregas, la calidad de lo que reporta, las herramientas que se van a utilizar, las fechas, la planeación de su trabajo, la integración con los demás, etc.
+1) Lograr un entendimiento de: el enunciado del proyecto, la aplicación actual y el trabajo faltante para completar lo actual con respecto a las expectativas del cliente.
+
+2) Tener Claridad sobre los riesgos del proyecto y haber discutido y definido planes de mitigación.
+
+3) Organizar el grupo de tal forma que cada miembro entienda la importancia de su participación y tenga claridad sobre los mecanismos de comunicación, las entregas, la calidad de lo que reporta, las herramientas que se van a utilizar, las fechas, la planeación de su trabajo, la integración con los demás, etc.
 
 **Objetivos individuales**
-1. Sea parte de un equipo de trabajo y haya participado en la definición y haya aceptado las reglas de funcionamiento del grupo. 
-2. Haya participado en el análisis del estado actual de la aplicación y en la construcción de:
+1) Sea parte de un equipo de trabajo y haya participado en la definición y haya aceptado las reglas de funcionamiento del grupo. 
+
+2) Haya participado en el análisis del estado actual de la aplicación y en la construcción de:
 - Dashboard de Sonar y análisis de los resultados de las métricas
 - Entendimiento de la Arquitectura de la aplicación
 - Entendimiento de las Tecnologías utilizadas
 - Proceso de integración continua utilizando github, travis y sonar
 - Caracterización y priorización de los requerimientos
-3. Haya participado con el equipo en la construcción de una estrategia para el proyecto, esto es:
+
+3) Haya participado con el equipo en la construcción de una estrategia para el proyecto, esto es:
 - Alcance de cada ciclo basado en una estimación inicial y en el estado actual del proyecto
 - Identificación de riesgos y planes de mitigación
 - Roles y responsabilidades
