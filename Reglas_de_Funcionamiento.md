@@ -43,6 +43,7 @@ De acuerdo a la planeación realizada para ciclo de trabajo, los integrantes deb
 De acuerdo a las directrices definidas para el proyecto, los objetivos planteados para el Ciclo 1 para proyecto son:
 
 **Objetivo del Grupo**
+
 1) Lograr un entendimiento de: el enunciado del proyecto, la aplicación actual y el trabajo faltante para completar lo actual con respecto a las expectativas del cliente.
 
 2) Tener Claridad sobre los riesgos del proyecto y haber discutido y definido planes de mitigación.
@@ -50,6 +51,7 @@ De acuerdo a las directrices definidas para el proyecto, los objetivos planteado
 3) Organizar el grupo de tal forma que cada miembro entienda la importancia de su participación y tenga claridad sobre los mecanismos de comunicación, las entregas, la calidad de lo que reporta, las herramientas que se van a utilizar, las fechas, la planeación de su trabajo, la integración con los demás, etc.
 
 **Objetivos individuales**
+
 1) Sea parte de un equipo de trabajo y haya participado en la definición y haya aceptado las reglas de funcionamiento del grupo. 
 
 2) Haya participado en el análisis del estado actual de la aplicación y en la construcción de:
