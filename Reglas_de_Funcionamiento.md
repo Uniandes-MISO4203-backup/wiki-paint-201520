@@ -70,8 +70,8 @@ En este orden de ideas, para el cumplimiento de los objetivos del Ciclo 1 del pr
 *Estados:* En espera, Cumplido, No Cumplido
 
 |Objetivo Individual|Medida|Viviana Salcedo|Mauricio Amaya|Sergio Bustos|Mario Lancheros|Alejandro Perez|Felipe Mendivelso|
-|---||---|---|---|---|---|---|---|
-|1|Medida 1| | | | | | |
+|---|---|---|---|---|---|---|---|---|
+|1|Medida 1| En espera| En espera| En espera| En espera| En espera| En espera|
 |2|Medida 2| | | | | | |
 |3|Medida 3| | | | | | |
 |4|Medida 4| | | | | | |
